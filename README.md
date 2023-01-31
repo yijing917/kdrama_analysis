@@ -102,15 +102,15 @@ Thus I had another query by grouping into weekdays and weekend to see if there i
 ![Query_8](https://user-images.githubusercontent.com/123582571/215838077-e599cfad-db14-48eb-a149-a8485169db77.png)
 
 9)Identify the most common genre combination and max rating.
-
-![Query_9](https://user-images.githubusercontent.com/123582571/215838733-3604303e-498a-4a36-8368-053a5cd0d31d.png)
 ![Query_9 1](https://user-images.githubusercontent.com/123582571/215838737-9ada3c38-fd86-408d-b63e-823285b61a9b.png)
 
-10)List out the latest year 2022 to identify the drama that airing in same month and rank the drama to find out the drama rank 1 for each month.
+![Query_9](https://user-images.githubusercontent.com/123582571/215838733-3604303e-498a-4a36-8368-053a5cd0d31d.png)
 
+10)List out the latest year 2022 to identify the drama that airing in same month and rank the drama to find out the drama rank 1 for each month.
+![Query_10 1](https://user-images.githubusercontent.com/123582571/215840467-22afbf35-ab52-4ce6-b39e-acd5a5a97d3b.png)
 
 ![Query_10](https://user-images.githubusercontent.com/123582571/215840466-acc182b2-d772-4105-b223-9d037eb5507a.png)
-![Query_10 1](https://user-images.githubusercontent.com/123582571/215840467-22afbf35-ab52-4ce6-b39e-acd5a5a97d3b.png)
+
 
 
 
