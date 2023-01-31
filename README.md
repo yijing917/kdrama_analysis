@@ -2,27 +2,28 @@
 
 :strawberry: **About dataset** 
 This dataset contains top-ranked 250 Korean dramas as per MyDramaList website. 
-The CSV file contains 17 columns as below: 
 
-| Column Name             | Category     | Description                                                       |                                                                                                                                                                         |
-|-------------------------|--------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Age                     | Numeric      | The age of the patient.                                           |                                                                                                                                                                         |
-| Sex                     | Categorical  | The gender of the patient.                                        | 1= male , 0 = female                                                                                                                                                    |
-| Chest Pain Type         | Categorical  | The type of chest pain experienced by the patient.                | 1= typical angina  2= atypical angina  3= non-anginal pain  4= asymptomatic                                                                                             |
-| BP                      | Numeric      | The blood pressure level of the patient.                          | resting blood pressure (in mmgHg on admission to hospital)                                                                                                              |
-| Cholesterol             | Numeric      | The cholesterol level of the patient.                             | serum cholesterol in mg/dl                                                                                                                                              |
-| FBS over 120            | Numeric      | The fasting blood sugar test results over 120 mg/dl.              | 1= true, 0= false                                                                                                                                                       |
-| EKG Results             | Categorical  | The electrocardiogram results of the patient.                     | 0= normal  1= having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of 0.05mV) 2= showing probable or definite left ventricular hypertrophy |
-| Max HR                  | Numeric      | The maximum heart rate levels achieved during exercise testing.   |                                                                                                                                                                         |
-| Exercise angina         | Categorical  | The angina experienced during exercise testing.                   | 1= yes, 0= no                                                                                                                                                           |
-| ST depression           | Numeric      | The ST depression on an Electrocardiogram.                        | ST depression induced by exercise relative to rest                                                                                                                      |
-| Slope of ST             | Categorical  | The slope of ST segment electrocardiogram readings.               | (mg                                                                                                                                                                     |
-| Number of vessels fluro | Numeric      | The amount vessels seen in Fluoroscopy images.                    | number of major vessels colored by fluoroscopy                                                                                                                          |
-| Thallium                | Categorical  | The Thallium Stress test findings.                                | 3= normal, 6= fixed defect , 7= reversible defect                                                                                                                       |
-| Heart Disease           | Categorical  | Whether or not the patient has been diagnosed with Heart Disease. | Presence/ Absent                                                                                                                                                        |
+The CSV file contain columns as below: 
 
-
-
+| Column Name          | Description                               |
+|----------------------|-------------------------------------------|
+| Name                 | Name of drama                             |
+| Aired Date           | Aired date (from start date to end date)  |
+| Year of release      | Release year                              |
+| Original Network     | Original Network / Distributor            |
+| Aired On             | Days on Air                               |
+| Number of Episodes   | Episodes per drama                        |
+| Duration             | Duration of drama per episode             |
+| Content Rating       | Age limit for content                     |
+| Rating               | Drama rating from MyDramaList             |
+| Synopsis             | Summary of the drama                      |
+| Genre                | Genre of the drama                        |
+| Tags                 | Related theme/topic                       |
+| Director             | Director of drama                         |
+| Screenwriter         | Screenwriter                              |
+| Cast                 | Main leads                                |
+| Production Companies | Production                                |
+Dataset credit to. 
 
 :strawberry: **Fact about KOrean Drama:**
 
