@@ -45,14 +45,12 @@ To identify the k-drama trend and summarize the popular genre by using SQL.
 2)	The highest count of drama group by Original network and average rating/ max rating 
 3)	Does weekend drama have higher rating compared to weekdays?
 4)	Highest rating of drama by Year 
-5)	What are the common episides available in Korean drama? 
-6)	Identify the count of drama with content rating 
-7)	Deeper analysis – Netflix’s drama analysis by year and rating 
-8)	Is there a trend for drama rated as “18+Restricted (violence % Profanity) 
-9)	Identify max rating in 2022 vs Original Network 
-10)	Any drama with ratings more or equal to 9? 
-11)	Identify the most common genre combination and max rating.
-12)	List out the latest year 2022 to identify the drama that airing in same month and rank the drama to find out the drama rank 1 for each month.
+5)	Identify the count of drama with content rating 
+6)	Deeper analysis – Netflix’s drama analysis by year and rating 
+7)	Is there a trend for drama rated as “18+Restricted (violence % Profanity) 
+8)	Identify max rating in 2022 vs Original Network 
+9)	Identify the most common genre combination and max rating.
+10)	List out the latest year 2022 to identify the drama that airing in same month and rank the drama to find out the drama rank 1 for each month.
 
 
 :strawberry: **Findings**
@@ -66,4 +64,53 @@ Analysis are as follow:
 1) What are the count of drama release in each year? 
 
 ![Query_1 ](https://user-images.githubusercontent.com/123582571/215820342-11f78132-f396-4324-af0d-9a24b9f548c7.png)
+
+
+2) The highest count of drama group by Original network and average rating/ max rating 
+
+![Query_2](https://user-images.githubusercontent.com/123582571/215824742-771bdc18-cd55-44e3-91c5-4f298c85960e.png)
+
+3) Does weekend drama have higher rating compared to weekdays?
+
+![Query_3](https://user-images.githubusercontent.com/123582571/215828338-2b9de7a6-8788-445e-ad81-5a02e33674ce.png)
+
+Thus I had another query by grouping into weekdays and weekend to see if there is any difference in rating between weekends and weekdays drama. 
+
+![Query_3 1](https://user-images.githubusercontent.com/123582571/215830705-0a45f8b0-1147-4407-9a49-5ca893750908.png)
+
+
+4) Highest rating of drama by Year 
+
+![Query_4](https://user-images.githubusercontent.com/123582571/215832971-c22a555e-425a-4f3a-aef7-2319a7e9ff21.png)
+
+5) Identify the count of drama with content rating 
+
+![Query_5](https://user-images.githubusercontent.com/123582571/215836773-3ebeaf1a-94a3-4856-85f5-5a39049c2312.png)
+
+
+6) Deeper analysis – Netflix’s drama analysis by year and rating 
+
+![Query_6](https://user-images.githubusercontent.com/123582571/215836117-bc955801-9940-47a8-ab4b-99e05e9d893c.png)
+
+
+7) Is there a trend for drama rated as “18+Restricted (violence % Profanity) 
+
+![Query_7](https://user-images.githubusercontent.com/123582571/215836184-806f3151-cf99-4f56-b7a7-58e8dfb02c06.png)
+
+8) Identify max rating in 2022 vs Original Network 
+
+![Query_8](https://user-images.githubusercontent.com/123582571/215838077-e599cfad-db14-48eb-a149-a8485169db77.png)
+
+9)Identify the most common genre combination and max rating.
+
+![Query_9](https://user-images.githubusercontent.com/123582571/215838733-3604303e-498a-4a36-8368-053a5cd0d31d.png)
+![Query_9 1](https://user-images.githubusercontent.com/123582571/215838737-9ada3c38-fd86-408d-b63e-823285b61a9b.png)
+
+10)List out the latest year 2022 to identify the drama that airing in same month and rank the drama to find out the drama rank 1 for each month.
+
+
+![Query_10](https://user-images.githubusercontent.com/123582571/215840466-acc182b2-d772-4105-b223-9d037eb5507a.png)
+![Query_10 1](https://user-images.githubusercontent.com/123582571/215840467-22afbf35-ab52-4ce6-b39e-acd5a5a97d3b.png)
+
+
 
