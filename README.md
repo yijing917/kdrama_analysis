@@ -1,4 +1,4 @@
-# kdrama_analysis
+# Korean drama_analysis
 
 :strawberry: **About dataset** 
 This dataset contains top-ranked 250 Korean dramas as per MyDramaList website. 
@@ -53,3 +53,17 @@ To identify the k-drama trend and summarize the popular genre by using SQL.
 10)	Any drama with ratings more or equal to 9? 
 11)	Identify the most common genre combination and max rating.
 12)	List out the latest year 2022 to identify the drama that airing in same month and rank the drama to find out the drama rank 1 for each month.
+
+
+:strawberry: **Findings**
+
+
+
+
+
+Analysis are as follow: 
+
+1) What are the count of drama release in each year? 
+
+![Query_1 ](https://user-images.githubusercontent.com/123582571/215820342-11f78132-f396-4324-af0d-9a24b9f548c7.png)
+
