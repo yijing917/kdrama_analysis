@@ -1,6 +1,6 @@
 # kdrama_analysis
 
-:strawberry: ######About dataset 
+:strawberry: **About dataset** 
 This dataset contains top-ranked 250 Korean dramas as per MyDramaList website. 
 The CSV file contains 17 columns as below: 
 
@@ -8,20 +8,22 @@ The CSV file contains 17 columns as below:
 
 
 
-:strawberry: ######Fact about Korean Drama: 
--	Usually they only premiere 2 episodes per week unless some of them are produced by Netflix. Thus we usually categorized them as below: 
--Monday-Tuesday 월화드리마 
--Wednesday- Thursday  수목드라마 
--Friday -Saturday 금토드라마 
+:strawberry: **Fact about KOrean Drama:**
 
-:strawberry: ######About the analysis and me: 
+Usually they only premiere 2 episodes per week unless some of them are produced by Netflix. Thus we usually categorized them as below: 
+*Monday-Tuesday 월화드리마 
+*Wednesday- Thursday  수목드라마 
+*Friday -Saturday 금토드라마 
+
+:strawberry: **About the analysis and me:**
+
 This would be my self-initiated SQL analysis by searching a dataset on Kaggle. I decided to start with something that I have passion personally to start with which is Korean drama. I started with understanding the whole dataset, cleaning the dataset in order to analyze what are the trends and analyze the findings accordingly. 
 It was a great learning process as I was able to start from scratch to clean the data( I have attached the sql file for my data cleaning process) and analyze accordingly. However, the dataset is limited to only 250 dramas thus more analysis would be needed in order to identify the trend. 
 
-:strawberry: ######Task 
+:strawberry: **Task**
 To identify the k-drama trend and summarize the popular genre by using SQL. 
 
-:strawberry: ######My approach
+:strawberry: **My approach**
 1)	What are the count of drama release in each year? 
 2)	The highest count of drama group by Original network and average rating/ max rating 
 3)	Does weekend drama have higher rating compared to weekdays?
