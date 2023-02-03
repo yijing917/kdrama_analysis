@@ -1,5 +1,8 @@
 # Korean drama_analysis
 
+![image_kdrama](https://user-images.githubusercontent.com/123582571/216664334-bdf22ff1-5d52-4e72-b5bb-4e057ae0ffc9.jpg)
+
+
 :strawberry: **About dataset** 
 This dataset contains top-ranked 250 Korean dramas as per MyDramaList website. 
 
